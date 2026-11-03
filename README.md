@@ -1,4 +1,4 @@
-![Galaxy Rust Server Banner](GalaxyLogo.png) 
+![Galaxy Rust Server Banner](https://github.com/GalaxyRustServers/.github/blob/6baf399c8e0a2962c755df579f1bdf0760089b63/GalaxyLogo.png) 
 # 🛰️ [US] GALAXY 2X PVE MONTHLY
 Raidable Bases • Custom Events • Friendly Survival
 
